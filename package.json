@@ -1,6 +1,6 @@
 {
   "name": "ember-jsonapi-parse-shim",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Ember CLI shim for jsonapi-parse",
   "keywords": [
     "ember-addon"
