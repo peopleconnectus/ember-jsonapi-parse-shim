@@ -1,26 +1,5 @@
 # ember-jsonapi-parse-shim
 
-This README outlines the details of collaborating on this Ember addon.
+[![npm version](https://badge.fury.io/js/ember-jsonapi-parse-shim.svg)](https://badge.fury.io/js/ember-jsonapi-parse-shim)
 
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd ember-jsonapi-parse-shim`
-* `npm install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+Ember CLI shim for [jsonapi-parse](https://github.com/mysidewalk/jsonapi-parse)
